@@ -1,0 +1,55 @@
+body {
+    overflow-y: scroll;
+    padding: 70px 0 0 0;
+}
+
+.container {
+    width: 940px;
+}
+
+header {
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #e7e7e7;
+    padding: 10px;
+}
+
+.nav-pills > li {
+    line-height: 15px;
+    margin: 0 10px 0 0;
+}
+
+.nav-pills > li > a {
+    margin-right: 10px;
+}
+
+.nav-pills > li > a > i {
+    margin: 0 5px 0 0;
+}
+
+.title-small {
+    font-size: 22px;
+}
+
+fieldset > legend {
+    font-size: 18px;
+}
+
+.table {
+    border: 1px solid #ddd;
+}
+
+.table td, th {
+    text-align: center;
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle !important;
+}
+
+.well {
+    margin-top: 5px;
+}
+
+.input-group-addon-small {
+    min-width: 40px;
+}
